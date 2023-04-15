@@ -5,3 +5,10 @@
 @import "display/chats.css";
 @import "display/find.css";
 @import "display/more.css";
+@import "display/settings.css";
+@import "display/chat.css";
+@import "no-mobile.css";
+
+body {
+  background-color: beige;
+}

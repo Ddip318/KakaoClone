@@ -29,4 +29,17 @@
   bottom: 15px;
   background-color: tomato;
   font-weight: 700;
+  animation: notificationAnimation 2s ease-in-out infinite;
+}
+
+@keyframes notificationAnimation {
+  0% {
+    transform: none;
+  }
+  50% {
+    transform: rotateY(180deg);
+  }
+  100% {
+    transform: none;
+  }
 }

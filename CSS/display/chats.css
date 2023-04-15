@@ -66,3 +66,7 @@
   color: inherit;
   text-decoration-line: none;
 }
+
+.screen-header__icons > a {
+  color: inherit;
+}

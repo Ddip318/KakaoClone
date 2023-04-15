@@ -18,22 +18,8 @@
   margin-left: 15px;
 }
 
-.user-component__column {
+.friends-screen__channel {
   margin-top: 15px;
-  padding-bottom: 15px;
-  display: flex;
-  align-items: center;
-  border-bottom: 2px solid rgb(213, 213, 213);
-}
-
-.user-component__column > img {
-  margin-right: 15px;
-  width: 15vw;
-  height: 10vh;
-  border-radius: 50%;
-}
-.user-component__text > h4 {
-  font-size: 18px;
 }
 
 .friends-component > h3 {
